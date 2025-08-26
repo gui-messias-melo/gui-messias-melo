@@ -8,6 +8,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&theme=onedark" alt="gui-messias-melo's stats"/>
 
+## 🌟 &nbsp;GitHub Profile Summary
+<img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gui-messias-melo&theme=radical" alt="GitHub Profile Summary"/>
+
+## 📊 &nbsp;GitLens Contribution Stats
+<img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gui-messias-melo&theme=radical&utcOffset=8" alt="GitLens Productive Time"/>
 
 ## 🛠 &nbsp;Technologies
 <p>
