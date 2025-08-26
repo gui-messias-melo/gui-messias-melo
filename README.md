@@ -15,12 +15,11 @@
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## 📊 &nbsp;GitHub Language and Contribution Stats
-<img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gui-messias-melo&theme=radical" alt="Most Used Languages"/>
-<img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gui-messias-melo&theme=radical" alt="Most Committed Languages"/>
-
 ## 🔥 &nbsp;Streaks
-<img src="https://streak-stats.demolab.com?user=gui-messias-melo&theme=radical" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=gui-messias-melo&theme=radical&hide_border=true&card_width=530&date_format=j%20M%5B%20Y%5D&_v=2" alt="GitHub Streak"/>
+<!-- Fallback (se persistir a falha, troque a linha de cima por esta):
+<img src="https://streak-stats.demolab.com?user=gui-messias-melo&theme=tokyonight&hide_border=true&card_width=530&_v=3" alt="GitHub Streak (fallback)"/>
+-->
 
 ## 📈 &nbsp;GitHub Stats (inclui privados e todos os commits)
 <img src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="GitHub Stats"/>
