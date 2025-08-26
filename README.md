@@ -18,5 +18,5 @@
 </p>
 
 
-### 🚀 &nbsp;Linguagens mais usadas
+## 🚀 &nbsp;Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-messias-melo&layout=compact&theme=radical)
