@@ -4,12 +4,10 @@
 - 🎂 Tenho 31 anos  
 - 💻 Amo programar em **C#** e **Python** e **PowerShell**
 
----
 
 ## ⚙️ &nbsp;GitHub Analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&theme=onedark" alt="gui-messias-melo's stats"/>
 
----
 
 ## 🛠 &nbsp;Technologies
 <p>
@@ -19,7 +17,6 @@
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
----
 
 ### 🚀 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-messias-melo&layout=compact&theme=radical)
