@@ -17,6 +17,4 @@
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-
-## 🚀 &nbsp;Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-messias-melo&layout=compact&theme=radical)
