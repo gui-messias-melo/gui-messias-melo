@@ -5,9 +5,12 @@
 - 💻 Amo programar em **C#** e **Python** e **PowerShell**
 
 ---
+
 ## ⚙️ &nbsp;GitHub Analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&theme=onedark" alt="gui-messias-melo's stats"/>
+
 ---
+
 ## 🛠 &nbsp;Technologies
 <p>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
