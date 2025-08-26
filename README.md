@@ -1,10 +1,10 @@
-<h1>Eu sou o Guilherme Messias!</h1>
-<br>
-<p>- Trabalho na empresa Smartfit a 6 anos</p>
-<p>- Tenho 30 anos de idade</p>
-<p>- Amo trabalhar com programação</p>
-<br>
-<p align="left">
+# Olá, eu sou o Guilherme Messias 👋
+
+- 🔭 Trabalho na **Smartfit** há 8 anos  
+- 🎂 Tenho 31 anos  
+- 💻 Amo programar em **C#** e **Python** e **PowerShell**
+
+---
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&theme=onedark" alt="gui-messias-melo's stats"/>
 
@@ -22,3 +22,20 @@
 
 
 
+
+# Olá, eu sou o Guilherme Messias 👋
+
+- 🔭 Trabalho na **Smartfit** há 6 anos  
+- 🎂 Tenho 30 anos  
+- 💻 Amo programar em **C#** e **Python**
+
+---
+
+### 📊 Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-messias&show_icons=true&theme=radical)
+
+### 🏆 Troféus
+![Trophy](https://github-profile-trophy.vercel.app/?username=g-messias&theme=onedark)
+
+### 🚀 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-messias&layout=compact&theme=radical)
