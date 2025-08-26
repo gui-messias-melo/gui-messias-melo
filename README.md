@@ -7,11 +7,10 @@
 ## 🌟 &nbsp;GitHub Profile Summary
 <img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gui-messias-melo&theme=radical" alt="GitHub Profile Summary"/>
 
-
 ## 🛠 &nbsp;Technologies
 <p>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="POWERSHELL" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+    <img align="center" alt="POWERSHELL" src="https://img.shields.io/badge/PowerShell-1F3B73?style=for-the-badge&logo=powershell&logoColor=white">
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
@@ -19,3 +18,12 @@
 ## 📊 &nbsp;GitHub Language and Contribution Stats
 <img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gui-messias-melo&theme=radical" alt="Most Used Languages"/>
 <img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gui-messias-melo&theme=radical" alt="Most Committed Languages"/>
+
+## 🔥 &nbsp;Streaks
+<img src="https://streak-stats.demolab.com?user=gui-messias-melo&theme=radical" alt="GitHub Streak"/>
+
+## 📈 &nbsp;GitHub Stats (inclui privados e todos os commits)
+<img src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="GitHub Stats"/>
+
+## 🗺️ &nbsp;Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-messias-melo&theme=tokyo-night" alt="Activity Graph"/>
