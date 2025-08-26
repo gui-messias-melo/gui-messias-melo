@@ -3,7 +3,7 @@
 - 🔭 Trabalho na **Smartfit** há 8 anos  
 - 🎂 Tenho 31 anos  
 - 💻 Atualmente sou Programador em HiperAutomation
-- Linguagens que Utilizo  **C#** 💜 - **PowerShell** 🔵 - **Python** 🐍 - **SQL** 🗄️
+- Linguagens que Utilizo  - 💜 **C#** 🔵 **PowerShell** 🐍 **Python** 🗄️ **SQL**
 
 ## 🛠 &nbsp;Technologies
 <p>
