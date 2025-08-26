@@ -32,10 +32,10 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-messias&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&theme=radical)
 
 ### 🏆 Troféus
-![Trophy](https://github-profile-trophy.vercel.app/?username=g-messias&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=gui-messias-melo&theme=onedark)
 
 ### 🚀 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-messias&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-messias-melo&layout=compact&theme=radical)
