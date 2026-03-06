@@ -13,6 +13,3 @@
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="GIT"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-## 🌟 &nbsp;GitHub Profile Summary
-<img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gui-messias-melo&theme=radical" alt="GitHub Profile Summary"/>
