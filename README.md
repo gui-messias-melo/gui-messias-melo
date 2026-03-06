@@ -16,9 +16,3 @@
 
 ## 🌟 &nbsp;GitHub Profile Summary
 <img width="530em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gui-messias-melo&theme=radical" alt="GitHub Profile Summary"/>
-
-## 🗺️ &nbsp;Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-messias-melo&theme=tokyo-night" alt="Activity Graph"/>
-
-## 📈 &nbsp;GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=gui-messias-melo&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="GitHub Stats"/>
